@@ -1,0 +1,17 @@
+/Users/omarcarreon/Desktop/Videojuegos/Tarea_ZonasEspeciales_A01036074/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/omarcarreon/Desktop/Videojuegos/Tarea_ZonasEspeciales_A01036074/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/omarcarreon/Desktop/Videojuegos/Tarea_ZonasEspeciales_A01036074/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/omarcarreon/Desktop/Videojuegos/Tarea_ZonasEspeciales_A01036074/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/omarcarreon/Desktop/Videojuegos/Tarea_ZonasEspeciales_A01036074/Temp/bin/Debug/UnityEngine.dll
+/Users/omarcarreon/Desktop/Videojuegos/Tarea_ZonasEspeciales_A01036074/Temp/bin/Debug/UnityEditor.dll
+/Users/omarcarreon/Desktop/Videojuegos/Tarea_ZonasEspeciales_A01036074/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/omarcarreon/Desktop/Videojuegos/Tarea_ZonasEspeciales_A01036074/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/omarcarreon/Desktop/Videojuegos/Tarea_ZonasEspeciales_A01036074/Temp/bin/Debug/Mono.Cecil.dll
+/Users/omarcarreon/Desktop/Videojuegos/Tarea_ZonasEspeciales_A01036074/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/omarcarreon/Desktop/Videojuegos/Tarea_ZonasEspeciales_A01036074/Temp/bin/Debug/Unity.DataContract.dll
+/Users/omarcarreon/Desktop/Videojuegos/Tarea_ZonasEspeciales_A01036074/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/omarcarreon/Desktop/Videojuegos/Tarea_ZonasEspeciales_A01036074/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/omarcarreon/Desktop/Videojuegos/Tarea_ZonasEspeciales_A01036074/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/omarcarreon/Desktop/Videojuegos/Tarea_ZonasEspeciales_A01036074/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/omarcarreon/Desktop/Videojuegos/Tarea_ZonasEspeciales_A01036074/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/omarcarreon/Desktop/Videojuegos/Tarea_ZonasEspeciales_A01036074/Temp/bin/Debug/Mono.Cecil.Mdb.dll
