@@ -1,0 +1,547 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2013 TIG
+# Made for 'Proj_WorkComputerStation.obj'
+
+newmtl Default_Material
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl LimeGreen
+Ka 0.196078 0.803922 0.196078
+Kd 0.196078 0.803922 0.196078
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Carpet_Frieze_Smoke
+Ka 0.32549 0.333333 0.352941
+Kd 0.32549 0.333333 0.352941
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd Proj_WorkComputerStation_Textures/Carpet_Frieze_Smoke.jpg
+
+newmtl Wood_Board_Cork
+Ka 0.843137 0.67451 0.407843
+Kd 0.843137 0.67451 0.407843
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd Proj_WorkComputerStation_Textures/Wood_Board_Cork.jpg
+
+newmtl Translucent_Glass_Gold
+Ka 1 0.996078 0.101961
+Kd 1 0.996078 0.101961
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.6
+Tr 0.6
+map_Kd Proj_WorkComputerStation_Textures/Translucent_Glass_Gold.jpg
+
+newmtl Black
+Ka 0.0470588 0.0470588 0.0470588
+Kd 0.0470588 0.0470588 0.0470588
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Gray6
+Ka 0.756863 0.756863 0.756863
+Kd 0.756863 0.756863 0.756863
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl pc_toshiba
+Ka 0.392157 0.376471 0.407843
+Kd 0.392157 0.376471 0.407843
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd Proj_WorkComputerStation_Textures/pc_toshiba.jpg
+
+newmtl Charcoal
+Ka 0.137255 0.137255 0.137255
+Kd 0.137255 0.137255 0.137255
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl WIN
+Ka 0.129412 0.505882 0.768627
+Kd 0.129412 0.505882 0.768627
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd Proj_WorkComputerStation_Textures/WIN.jpg
+
+newmtl toshiba_dessus
+Ka 0.498039 0.490196 0.47451
+Kd 0.498039 0.490196 0.47451
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd Proj_WorkComputerStation_Textures/toshiba_dessus.jpg
+
+newmtl BurlyWood
+Ka 0.870588 0.721569 0.529412
+Kd 0.870588 0.721569 0.529412
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Snow
+Ka 1 0.980392 0.980392
+Kd 1 0.980392 0.980392
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl FireBrick
+Ka 0.698039 0.133333 0.133333
+Kd 0.698039 0.133333 0.133333
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl SaddleBrown
+Ka 0.545098 0.270588 0.0745098
+Kd 0.545098 0.270588 0.0745098
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl GrassGreen
+Ka 0.0745098 0.266667 0.054902
+Kd 0.0745098 0.266667 0.054902
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Gainsboro1
+Ka 0.741176 1 0.772549
+Kd 0.741176 1 0.772549
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Color_000
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Brown1
+Ka 0.615686 0.454902 0.282353
+Kd 0.615686 0.454902 0.282353
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl DarkGray
+Ka 0.317647 0.317647 0.317647
+Kd 0.317647 0.317647 0.317647
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Gainsboro
+Ka 0.862745 0.862745 0.862745
+Kd 0.862745 0.862745 0.862745
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Gray
+Ka 0.501961 0.501961 0.501961
+Kd 0.501961 0.501961 0.501961
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl LightGray
+Ka 0.662745 0.662745 0.662745
+Kd 0.662745 0.662745 0.662745
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Red
+Ka 1 0 0
+Kd 1 0 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 0129_WhiteSmoke
+Ka 0.960784 0.960784 0.960784
+Kd 0.960784 0.960784 0.960784
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 0105_Navy
+Ka 0 0 0.501961
+Kd 0 0 0.501961
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl mat3
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl mat2
+Ka 0.411765 0.411765 0.411765
+Kd 0.411765 0.411765 0.411765
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl casters
+Ka 0.219608 0.219608 0.219608
+Kd 0.219608 0.219608 0.219608
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl seating_fabric
+Ka 0.52549 0.321569 0.0509804
+Kd 0.52549 0.321569 0.0509804
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl mat9
+Ka 0.960784 0.976471 0.843137
+Kd 0.960784 0.976471 0.843137
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl all_metal
+Ka 0.584314 0.584314 0.584314
+Kd 0.584314 0.584314 0.584314
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 0010_Snow
+Ka 0.603922 0.619608 0.623529
+Kd 0.603922 0.619608 0.623529
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Translucent_Glass_Tinted
+Ka 0.027451 0.788235 0.941176
+Kd 0.027451 0.788235 0.941176
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.48
+Tr 0.48
+map_Kd Proj_WorkComputerStation_Textures/Translucent_Glass_Tinted.jpg
+
+newmtl Translucent_Glass_Tinted1
+Ka 0.0431373 0.227451 0.34902
+Kd 0.0431373 0.227451 0.34902
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.85
+Tr 0.85
+map_Kd Proj_WorkComputerStation_Textures/Translucent_Glass_Tinted1.jpg
+
+newmtl Translucent_Glass_Gray
+Ka 0.729412 0.729412 0.729412
+Kd 0.729412 0.729412 0.729412
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.19
+Tr 0.19
+
+newmtl 0135_DarkGray1
+Ka 0.317647 0.317647 0.317647
+Kd 0.317647 0.317647 0.317647
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Apple_-_iPhone_5_-__iPhone_1
+Ka 0.396078 0.466667 0.494118
+Kd 0.396078 0.466667 0.494118
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd Proj_WorkComputerStation_Textures/Apple_-_iPhone_5_-__iPhone_1.png
+
+newmtl Charcoal1
+Ka 0.137255 0.137255 0.137255
+Kd 0.137255 0.137255 0.137255
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 0010_Snow1
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl LightGray2
+Ka 0.662745 0.662745 0.662745
+Kd 0.662745 0.662745 0.662745
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 0009_Linen
+Ka 0.788235 0.780392 0.784314
+Kd 0.788235 0.780392 0.784314
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 0012_Bisque
+Ka 0.0823529 0.0862745 0.0941176
+Kd 0.0823529 0.0862745 0.0941176
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Translucent_Glass_Gold1
+Ka 0.952941 0.980392 0.952941
+Kd 0.952941 0.980392 0.952941
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.6
+Tr 0.6
+map_Kd Proj_WorkComputerStation_Textures/Translucent_Glass_Gold1.jpg
+
+newmtl Translucent_Glass_Tinted2
+Ka 0.890196 0.937255 0.882353
+Kd 0.890196 0.937255 0.882353
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.91
+Tr 0.91
+map_Kd Proj_WorkComputerStation_Textures/Translucent_Glass_Tinted2.jpg
+
+newmtl 0005_LightPink
+Ka 0.517647 0.517647 0.517647
+Kd 0.517647 0.517647 0.517647
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+#Distorted-Textures
+newmtl pc_toshiba1
+Ka 0.392157 0.376471 0.407843
+Kd 0.392157 0.376471 0.407843
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd Proj_WorkComputerStation_Textures/pc_toshiba1.jpg
+
+newmtl pc_toshiba2
+Ka 0.392157 0.376471 0.407843
+Kd 0.392157 0.376471 0.407843
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd Proj_WorkComputerStation_Textures/pc_toshiba2.jpg
+
+newmtl pc_toshiba3
+Ka 0.392157 0.376471 0.407843
+Kd 0.392157 0.376471 0.407843
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd Proj_WorkComputerStation_Textures/pc_toshiba3.jpg
+
+newmtl pc_toshiba4
+Ka 0.392157 0.376471 0.407843
+Kd 0.392157 0.376471 0.407843
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd Proj_WorkComputerStation_Textures/pc_toshiba4.jpg
+
+newmtl pc_toshiba5
+Ka 0.392157 0.376471 0.407843
+Kd 0.392157 0.376471 0.407843
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd Proj_WorkComputerStation_Textures/pc_toshiba5.jpg
+
+newmtl pc_toshiba6
+Ka 0.392157 0.376471 0.407843
+Kd 0.392157 0.376471 0.407843
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd Proj_WorkComputerStation_Textures/pc_toshiba6.jpg
+
+newmtl pc_toshiba7
+Ka 0.392157 0.376471 0.407843
+Kd 0.392157 0.376471 0.407843
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd Proj_WorkComputerStation_Textures/pc_toshiba7.jpg
+
+newmtl pc_toshiba8
+Ka 0.392157 0.376471 0.407843
+Kd 0.392157 0.376471 0.407843
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd Proj_WorkComputerStation_Textures/pc_toshiba8.jpg
+
+newmtl pc_toshiba9
+Ka 0.392157 0.376471 0.407843
+Kd 0.392157 0.376471 0.407843
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd Proj_WorkComputerStation_Textures/pc_toshiba9.jpg
+
+newmtl pc_toshiba10
+Ka 0.392157 0.376471 0.407843
+Kd 0.392157 0.376471 0.407843
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd Proj_WorkComputerStation_Textures/pc_toshiba10.jpg
+
+newmtl pc_toshiba11
+Ka 0.392157 0.376471 0.407843
+Kd 0.392157 0.376471 0.407843
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd Proj_WorkComputerStation_Textures/pc_toshiba11.jpg
+
+newmtl pc_toshiba12
+Ka 0.392157 0.376471 0.407843
+Kd 0.392157 0.376471 0.407843
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd Proj_WorkComputerStation_Textures/pc_toshiba12.jpg
+
+newmtl pc_toshiba13
+Ka 0.392157 0.376471 0.407843
+Kd 0.392157 0.376471 0.407843
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd Proj_WorkComputerStation_Textures/pc_toshiba13.jpg
+
+newmtl pc_toshiba14
+Ka 0.392157 0.376471 0.407843
+Kd 0.392157 0.376471 0.407843
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd Proj_WorkComputerStation_Textures/pc_toshiba14.jpg
+
+newmtl pc_toshiba15
+Ka 0.392157 0.376471 0.407843
+Kd 0.392157 0.376471 0.407843
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd Proj_WorkComputerStation_Textures/pc_toshiba15.jpg
+
+newmtl pc_toshiba16
+Ka 0.392157 0.376471 0.407843
+Kd 0.392157 0.376471 0.407843
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd Proj_WorkComputerStation_Textures/pc_toshiba16.jpg
+
+newmtl toshiba_dessus1
+Ka 0.498039 0.490196 0.47451
+Kd 0.498039 0.490196 0.47451
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd Proj_WorkComputerStation_Textures/toshiba_dessus1.jpg
+
+newmtl Apple_-_iPhone_5_-__iPhone_11
+Ka 0.396078 0.466667 0.494118
+Kd 0.396078 0.466667 0.494118
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd Proj_WorkComputerStation_Textures/Apple_-_iPhone_5_-__iPhone_11.png
+
+#EOF
