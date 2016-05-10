@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DA8B5B91-070A-346E-9966-0EEF4E7FBAD6}") = "Raycast_Tarea12_a01036074", "Assembly-CSharp-firstpass.csproj", "{9074F3B3-4D49-DF03-E42D-F600078851A7}"
+EndProject
+Project("{DA8B5B91-070A-346E-9966-0EEF4E7FBAD6}") = "Raycast_Tarea12_a01036074", "Assembly-CSharp-Editor.csproj", "{B9072138-9860-1CBD-316F-80155BF3B327}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9074F3B3-4D49-DF03-E42D-F600078851A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9074F3B3-4D49-DF03-E42D-F600078851A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9074F3B3-4D49-DF03-E42D-F600078851A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9074F3B3-4D49-DF03-E42D-F600078851A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9072138-9860-1CBD-316F-80155BF3B327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9072138-9860-1CBD-316F-80155BF3B327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9072138-9860-1CBD-316F-80155BF3B327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9072138-9860-1CBD-316F-80155BF3B327}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
